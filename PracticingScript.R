@@ -17,3 +17,7 @@ install.packages("here")
 # 3. SNAPSHOT to record versions
 renv::snapshot()
 y
+
+
+mean(iris$Petal.Length)
+# checking petal length
